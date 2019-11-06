@@ -1,2 +1,2 @@
 # Algorithm-practice
-understanding of algorithm
+understanding of machine learning algorithm
